@@ -27,4 +27,4 @@ My undergraduate thesis, on how to evaluate machine learning models when data ar
 
 ### Contact
 
-[LinkedIn](https://www.linkedin.com/in/jubair-imtiaj-70b910451) · imtyajjubair320@gmail.com
+[LinkedIn](https://www.linkedin.com/in/md-jubair-imtiaj-70b910451) · imtyajjubair320@gmail.com
